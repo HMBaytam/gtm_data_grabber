@@ -1,0 +1,8 @@
+.DS_Store
+.venv
+ga4_tag_list.csv
+ua_tag_list.csv
+output.xlsx
+gtm.json
+.vscode
+__pycache__
